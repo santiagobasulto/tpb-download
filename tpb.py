@@ -5,7 +5,7 @@ TPB_TORRENT_URL = "http://torrents.thepiratebay.se"
 
 
 def torrent_download_url(torrent_id):
-    url = '%s/%s' % (TPB_TORRENT_URL, torrent_id)
+    url = '%s/%s/%s.torrent' % (TPB_TORRENT_URL, torrent_id, torrent_id)
     return url
 
 
