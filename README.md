@@ -17,4 +17,4 @@ If you don't want to clone the repository, or download the `tpb.py` file you can
 
 That's it! Really simple. Please use it at your own risk, and don't download illegal stuff.
 
-**Disclaimer: This program is intended to use just for legal torrents (eg: Linux distros). The author has no relation with piracy or any other shit like that**
+**Disclaimer: This program is intended to use just for legal torrents (eg: Linux distros). The author has no relation with illegal downloads of copyrighted material or any other shit like that**
